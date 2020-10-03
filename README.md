@@ -1,6 +1,7 @@
 # iSOLVIT
 
-A new Flutter project.
+- C'est une application mobile destinée aux personnels soignants, son objectif principal est la collecte d'information et le signalement des nouveau cas d'une maladie ainsi que la visualisation des statistiques et la courbe d'évolution de l'épidimie.
+- It is a mobile application intended for healthcare workers, its main objective is the collection of information and the reporting of new cases of a disease as well as the visualization of statistics and the trend curve of the epidemic.
 
 ## Getting Started
 
